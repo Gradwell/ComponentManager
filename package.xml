@@ -45,19 +45,19 @@ ${contents}
       <package>
         <name>ComponentManagerPhpLibrary</name>
         <channel>pear.gradwell.com</channel>
-        <min>1.0.0</min>
+        <min>1.0.1</min>
         <max>1.999.9999</max>
       </package>
       <package>
         <name>ComponentManagerPhpDocbook</name>
         <channel>pear.gradwell.com</channel>
-        <min>1.0.0</min>
+        <min>1.0.1</min>
         <max>1.999.9999</max>
       </package>
       <package>
         <name>ComponentManagerPhpWebapp</name>
         <channel>pear.gradwell.com</channel>
-        <min>1.0.0</min>
+        <min>1.0.1</min>
         <max>1.999.9999</max>
       </package>
     </required>
