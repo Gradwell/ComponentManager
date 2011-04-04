@@ -45,7 +45,7 @@ ${contents}
       <package>
         <name>ComponentManagerPhpLibrary</name>
         <channel>pear.gradwell.com</channel>
-        <min>1.0.2</min>
+        <min>1.1.0</min>
         <max>1.999.9999</max>
       </package>
       <package>
@@ -63,7 +63,7 @@ ${contents}
       <package>
         <name>ComponentManagerShared</name>
         <channel>pear.gradwell.com</channel>
-        <min>1.0.1</min>
+        <min>1.0.2</min>
         <max>1.999.9999</max>
       </package>
       <package>
