@@ -45,7 +45,7 @@ ${contents}
       <package>
         <name>ComponentManagerPhpLibrary</name>
         <channel>pear.gradwell.com</channel>
-        <min>1.1.3</min>
+        <min>1.2.0</min>
         <max>1.999.9999</max>
       </package>
       <package>
